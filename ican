@@ -1,0 +1,2 @@
+JAVA_OPTS="${JAVA_OPTS} ${topicName}" 
+$JAVA_HOME/bin/java ${JAVA_OPTS} 
