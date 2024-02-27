@@ -1,0 +1,4 @@
+public class SampleExternalProxy 
+{  
+    // Create a Client facace for serach 
+    private ExternalClientObject externalUserMgr; 
