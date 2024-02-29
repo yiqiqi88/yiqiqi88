@@ -1,0 +1,5 @@
+        /** instanceVar2 documentation comment */
+        protected int instanceVar2;
+
+        /** instanceVar3 documentation comment */
+        private Object[] instanceVar3;
