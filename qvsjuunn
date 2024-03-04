@@ -1,0 +1,4 @@
+            bomb_text = bomb_font.render("x %d" % bomb_num, True, WHITE)
+            text_rect = bomb_text.get_rect()
+            screen.blit(bomb_image, (10, height-10 - bomb_rect.height))
+            screen.blit(bomb_text, (20 + bomb_rect.width, height - 5 - text_rect.height))
