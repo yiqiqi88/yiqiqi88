@@ -1,0 +1,6 @@
+
+            screen.blit(bomb_text, (20 + bomb_rect.width, height - 5 - text_rect.height))
+ 
+ 
+            if life_num:
+                for i in range(life_num):
