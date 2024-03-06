@@ -1,0 +1,9 @@
+                    case 4:
+                        selfBorn = new SelfBorn(j * 50, i * 50);
+                        break;
+                    case 5:
+                        enemyBorns.add(new EnemyBorn(j * 50, i * 50));
+                        break;
+                    case 6:
+                        home = new Home(j * 50, i * 50);
+                        break;
