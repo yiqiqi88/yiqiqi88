@@ -1,0 +1,8 @@
+            tank.setRight(true);
+            tank.setDir(Direction.R);
+        }
+    }
+ 
+    public void initMap(File file) {
+        try {
+            FileInputStream read = new FileInputStream(file);
