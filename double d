@@ -1,0 +1,7 @@
+   public void test(){
+    public void testExpression(){
+        long start = System.currentTimeMillis();
+        double d = Math.random();
+        double a = Math.random();
+        double b = Math.random();
+        double e = Math.random();
