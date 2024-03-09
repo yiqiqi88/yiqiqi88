@@ -1,0 +1,7 @@
+        double x,y;
+        for(int i=0;i<10000000;i++){
+            x = d*a*b/3*4*a;
+            y = e*a*b/3*4*a;
+        }
+        long useTime = System.currentTimeMillis()-start;
+        System.out.println("useTime:"+useTime);
