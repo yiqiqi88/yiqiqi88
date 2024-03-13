@@ -1,0 +1,8 @@
+case '4':
+						clrscr();
+						puts("===========================================");
+						puts("|   Your Debit money is $1000,Thank you!  |");
+						puts("|        Press any key to return...       |");
+						puts("===========================================");
+						getch();
+						break;
