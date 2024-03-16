@@ -1,0 +1,6 @@
+	int k;		/* */
+
+	printf("Please input a string with a # in the end.\n");
+	scanf("%c",&ch);	/* */
+	while(ch != '#')	/* */
+	{
