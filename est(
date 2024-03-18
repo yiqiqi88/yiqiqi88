@@ -1,0 +1,4 @@
+    public void test(){
+        long start = System.currentTimeMillis();
+        int a = 0;
+        try {
