@@ -1,0 +1,5 @@
+            e.printStackTrace();
+        } finally {
+            if (fis == null) {
+                try {
+                    assert false;
